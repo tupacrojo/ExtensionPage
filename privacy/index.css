@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #a1a1a1;
+}
+body {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 14px;
+  font-style: normal;
+}
+
+#texto{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#links{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color : black;
+    text-decoration: none;
+}
